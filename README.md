@@ -13,7 +13,11 @@ If when it loads a new categorie there isn't enough space, it will make another 
 
 
 I am using multiples library in this project :
+
 BARCODER.ahk  https://www.autohotkey.com/boards/viewtopic.php?f=6&t=5538#p32028
+
 GDIP          https://www.autohotkey.com/boards/viewtopic.php?t=6517
+
 AHKsock       https://github.com/jleb/AHKsock/blob/master/documentation.md
+
 AHKHttp       https://www.autohotkey.com/boards/viewtopic.php?f=6&t=4890
