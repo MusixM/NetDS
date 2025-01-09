@@ -10,3 +10,10 @@ Click on "+" to create a new categorie and import new files.
 Click on "Contrôle en réseau local" to be able to control the pictures from another device on the same network. When you clicked it, wait. When a window appear, you can either flash the qr code or write the URL on the other device.
 
 If when it loads a new categorie there isn't enough space, it will make another page, click on the numbers on the top to navigate between pages. 
+
+
+I am using multiples library in this project :
+BARCODER.ahk  https://www.autohotkey.com/boards/viewtopic.php?f=6&t=5538#p32028
+GDIP          https://www.autohotkey.com/boards/viewtopic.php?t=6517
+AHKsock       https://github.com/jleb/AHKsock/blob/master/documentation.md
+AHKHttp       https://www.autohotkey.com/boards/viewtopic.php?f=6&t=4890
